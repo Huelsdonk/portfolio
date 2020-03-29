@@ -1,3 +1,7 @@
 # My Portfolio
 
-This is a responsive portfolo site with a contact section, links to a couple projects (and some placeholders), and a contact section. 
+Hi! This is my portfolio site. It includes a little bit of information about me, ways to get a hold of me, and some projects. It lives [right here](https://huelsdonk.github.io/portfolio/). Thanks for taking a look.
+
+
+
+![Portfolio](theapp.png)
