@@ -4,4 +4,4 @@ Hi! This is my portfolio site. It includes a little bit of information about me,
 
 
 
-![Portfolio](theapp.png)
+![Portfolio](assets/theapp.png)
