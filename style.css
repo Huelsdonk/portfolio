@@ -2,17 +2,17 @@ body {
   font-family: "Oxygen", sans-serif;
   font-size: 26px;
   color: whitesmoke;
-  min-height: 75rem;
+  min-height: 100%;
   padding-top: 4.5rem;
   background: linear-gradient(#002fa762, #002fa762), url("assets/close-up-photo-of-wooden-panel-3750272.jpg");
   background-size: cover;
   background-attachment: fixed;
-  box-shadow: inset 5px 5px 10rem rgba(0, 0, 0, 0.7);
+  /* box-shadow: inset 5px 5px 10rem rgba(0, 0, 0, 0.7); */
   text-shadow: 1px 1px 2px #002fa73b !important;
 }
 
-body.contact {
-  min-height: 60rem;
+body.contact, body.index {
+  min-height: 100%;
 }
 
 .card-text {
