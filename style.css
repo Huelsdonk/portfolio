@@ -29,6 +29,10 @@ main.portfolio {
 
 }
 
+.small {
+  font-size: .65em;
+}
+
 .blulink:hover {
   color: #002fa7 !important;
   text-shadow: .2px .2px 1px whitesmoke !important;
