@@ -1,3 +1,14 @@
+@media screen and (min-width: 992px) {
+  .card {
+    min-height: 415.08px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .card {
+    min-height: 456.77px;
+  }
+}
+
 body {
   font-family: "Oxygen", sans-serif;
   font-size: 26px;
